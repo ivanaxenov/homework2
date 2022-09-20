@@ -15,7 +15,7 @@ public class Main {
         paper = paper + 4; // прибавил 4 для paper
         System.out.println(paper);
         System.out.println("Задача 3");
-        var dog1 = 8.0;
+        var dog1 = 8.0; // сделал double
         dog1 = dog1 - 3.5; // отнял 3.5
         System.out.println(dog1);
         cat = cat - 1.6; // отнял 1.6
